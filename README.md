@@ -1,6 +1,7 @@
 <h1 align='center'> Hi，my frends! :wave:</h1>
-Biggggggg thank for looking at my profile! my ![Visitor Count](https://profile-counter.glitch.me/kilivo/count.svg) visitor! 
-
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+</div>
 ----
 
 ~I'm thinking about what to write:)~
